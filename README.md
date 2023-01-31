@@ -1,4 +1,4 @@
-# Olá!, Eu sou o Diego Almeida.
+# Olá!, Meu nome é Diego Almeida.
 
 - 🌱 Atualmente estou estudando programação.
 - 👯 Estou procurando colaborar com meus conhecimentos.
