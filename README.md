@@ -25,4 +25,4 @@
 
 #
 
-![Snake animation](https://github.com/digoplay1987/digoplay1987/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/digoplay1987/blob/output/github-contribution-grid-snake.svg)
