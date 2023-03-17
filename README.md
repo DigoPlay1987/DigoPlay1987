@@ -1,8 +1,8 @@
 # Olá!, Meu nome é Diego Almeida.
 
-- 🌱 Atualmente estou estudando programação AngularJs
-- 👯 Estou procurando colaborar com meus conhecimentos.
+- 🌱 Atualmente estou estudando programação PHP.
 - 🤔 Estou procurando ajuda com desenvolvimento.
+- 👯 Estou procurando colaborar com meus conhecimentos.
 - 📫 Como entrar em contato comigo: e-mail no perfil.
 - ⚡ Curiosidade: Desenvolvimento, Metaverso, Cyber Security!
 #
